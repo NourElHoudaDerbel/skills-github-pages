@@ -1,0 +1,4 @@
+theme: minima
+title: Configuration of a Github Page Skills Mini-Course
+author: Nour
+description: This is a first trial at making a Github page by following the instructions of the mini-course, on the file _config.yml: the theme, title, author and description of page can be provided by the user.
